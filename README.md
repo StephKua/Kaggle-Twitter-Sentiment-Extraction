@@ -16,7 +16,7 @@
 - pretrained with Squad2
 - Multi-Sample Dropout (https://arxiv.org/pdf/1905.09788.pdf)
 - Average Pooling of Last 4 Hidden Layer
-- 5x Trained on all data but removed all tokens that are impossible to predict
+- 5x Trained on all data but removed all tokens that are impossible to predict (done by https://www.kaggle.com/css919)
 - 5x Trained on Neutral Tweets only
 
 2. Electra-Large
