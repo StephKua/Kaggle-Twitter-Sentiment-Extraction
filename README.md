@@ -20,5 +20,5 @@
 - 5x Trained on Neutral Tweets only
 
 2. Electra-Large
-- fine tune using TF scripts on colab using TPU
+- fine tuned using TF scripts on colab with TPU and GCloud
 - mostly done by my teammates (https://www.kaggle.com/ajinomoto132 and https://www.kaggle.com/tretrausaigon)
