@@ -22,3 +22,12 @@
 2. Electra-Large
 - fine tuned using TF scripts on colab with TPU and GCloud
 - mostly done by my teammates (https://www.kaggle.com/ajinomoto132 and https://www.kaggle.com/tretrausaigon)
+
+# Things tried but failed
+- SWA
+- ALBERT, ALBERT-LARGE
+- LABEL SMOOTHING (probably didn't implement it correctly)
+- Pretrain with More Tweets
+- Exploit the original dataset
+- Layer Wise LR Decay (probably didn't implement it correctly)
+- Reproduce a customizable Electra on Pytorch
